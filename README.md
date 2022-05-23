@@ -10,7 +10,7 @@
 * Bước 5. Trong thư mục "Space Shooter" đã có file "spaceshooter.exe", chạy game bằng cách mở file này. 
 # Mô tả chung
 Một game bắn máy bay theo chiều dọc lấy khung cảnh ngoài vũ trụ, sử dụng chuột di chuyển máy bay né đạn và tiêu diệt các kẻ địch xuất hiện trên màn hình, hãy cố gắng tiêu diệt thật nhiều kẻ địch để đạt điểm cao.
-#Các chức năng đã cài đặt
+# Các chức năng đã cài đặt
 Video demo game: [Truy cập](https://youtu.be/zUWZ2j17m_Y)
 * Game Menu.
 * Tạm dừng game
